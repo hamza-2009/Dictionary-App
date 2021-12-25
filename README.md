@@ -1,2 +1,2 @@
 # Dictionary-App
-Can't find meanings use this.
+Can't find meanings. No problem use this.
